@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+tf_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large excluded files
+Data/customer_support_ticket.xlsx
+Data/final_customer_support.csv
+models/resolution_time_rf.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal scratch files
+command prompts.txt
+Input samples.txt
